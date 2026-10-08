@@ -14,3 +14,4 @@ Notes and usage details for loom.
 - fix a small wording issue
 - clarify the setup steps
 - clarify the setup steps
+- link the usage section
